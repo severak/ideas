@@ -11,3 +11,4 @@ Various ideas that needed to be documented.
 - eli - alternative windows shell written in lua (inspired by [Fish shell](http://fishshell.com/), implemented with [winapi](https://github.com/stevedonovan/winapi) probably)
 - anchor-opac (OPAC based on anchor-cms, inspired by current svita.cz setup)
 - write only memory - modified usb flash drive which disables overwriting of data. It possible only to append data.
+- Prague Taxi Simulator - simulator of taxi running on real road map of Prague. It's interface would be similar to that one of GPS navigation device.
