@@ -12,3 +12,4 @@ Various ideas that needed to be documented.
 - anchor-opac (OPAC based on anchor-cms, inspired by current svita.cz setup)
 - write only memory - modified usb flash drive which disables overwriting of data. It possible only to append data.
 - Prague Taxi Simulator - simulator of taxi running on real road map of Prague. It's interface would be similar to that one of GPS navigation device.
+- *lunarender* - osm2svg renderer, renders 1:1 - eg. node to circle, square, symbol or label, way/area to path. See [math](https://msdn.microsoft.com/en-us/library/bb259689.aspx) for it
