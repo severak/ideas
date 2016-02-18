@@ -13,6 +13,7 @@ Various ideas that needed to be documented.
 - write only memory - modified usb flash drive which disables overwriting of data. It possible only to append data.
 - Prague Taxi Simulator - simulator of taxi running on real road map of Prague. It's interface would be similar to that one of GPS navigation device.
 - manifest „Hlavně to musí fungovat“ o open source z uživatelského pohledu
+- `leaflet.timetravel`
 
 
 ## implemented
