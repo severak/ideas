@@ -14,6 +14,7 @@ Various ideas that needed to be documented.
 - Prague Taxi Simulator - simulator of taxi running on real road map of Prague. It's interface would be similar to that one of GPS navigation device.
 - manifest „Hlavně to musí fungovat“ o open source z uživatelského pohledu
 - `leaflet.timetravel`
+- ommpack - pack OSM data via msgpack
 
 
 ## implemented
