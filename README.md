@@ -15,6 +15,7 @@ Various ideas that needed to be documented.
 - manifest „Hlavně to musí fungovat“ o open source z uživatelského pohledu
 - `leaflet.timetravel`
 - ommpack - pack OSM data via msgpack
+- balič - zabalí HTML5 appku do jednoho souboru. Alternativa k Electronu nebo Node-Webkit.
 
 
 ## implemented
