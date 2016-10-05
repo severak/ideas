@@ -17,7 +17,7 @@ Various ideas that needed to be documented.
 - ommpack - pack OSM data via msgpack
 - balič - zabalí HTML5 appku do jednoho souboru. Alternativa k Electronu nebo Node-Webkit.
 - aplikace na správu kontaktů
-
+- popsat WTF soubory a jejich použití jako adresář
 
 ## implemented
 
