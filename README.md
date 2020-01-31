@@ -17,6 +17,7 @@ Various ideas that needed to be documented.
 - aplikace na správu kontaktů
 - popsat WTF soubory a jejich použití jako adresář
 - lua portable sandbox (aka luaos in userspace)
+- create something like https://lucidiot.gitlab.io/transporte/ for Prague metro
 
 ## WIP
 
